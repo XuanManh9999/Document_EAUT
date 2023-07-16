@@ -1,0 +1,8 @@
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\bin\Debug\Client.exe.config
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\bin\Debug\Client.exe
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\bin\Debug\Client.pdb
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\obj\Debug\Client.exe
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Su_Dung_netWork_stream_Gui_DâT\Client\obj\Debug\Client.pdb

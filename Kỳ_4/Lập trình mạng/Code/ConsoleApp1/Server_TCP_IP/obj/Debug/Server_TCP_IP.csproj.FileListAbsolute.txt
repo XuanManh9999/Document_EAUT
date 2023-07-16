@@ -1,0 +1,8 @@
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\bin\Debug\Server_TCP_IP.exe.config
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\bin\Debug\Server_TCP_IP.exe
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\bin\Debug\Server_TCP_IP.pdb
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\obj\Debug\Server_TCP_IP.csproj.AssemblyReference.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\obj\Debug\Server_TCP_IP.csproj.SuggestedBindingRedirects.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\obj\Debug\Server_TCP_IP.csproj.CoreCompileInputs.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\obj\Debug\Server_TCP_IP.exe
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\ConsoleApp1\Server_TCP_IP\obj\Debug\Server_TCP_IP.pdb

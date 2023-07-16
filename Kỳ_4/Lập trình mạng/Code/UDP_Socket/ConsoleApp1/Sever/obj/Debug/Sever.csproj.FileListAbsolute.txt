@@ -1,0 +1,8 @@
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\bin\Debug\Sever.exe.config
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\bin\Debug\Sever.exe
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\bin\Debug\Sever.pdb
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\obj\Debug\Sever.csproj.AssemblyReference.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\obj\Debug\Sever.csproj.SuggestedBindingRedirects.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\obj\Debug\Sever.exe
+D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\UDP_Socket\ConsoleApp1\Sever\obj\Debug\Sever.pdb
