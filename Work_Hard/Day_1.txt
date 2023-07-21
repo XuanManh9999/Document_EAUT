@@ -1,0 +1,8 @@
++, Sáng: Học các môn trên trường
+-> SXTK, CSDL, WEBPHP, Java
++, Chiều: Học môn phát triển
+-> Nodejs, html_csspro, đọc tài liệu nodejs
++, Tối: Học môn nền tảng
+-> Tiếng anh lv1
+Phần thưởng 1 tập tam quốc diễn nghĩa
+//21/7/2022

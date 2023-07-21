@@ -1,0 +1,22 @@
+Domain hiểu đơn giản nó là phần hậu tố năm đằng sau dấu . trên tên miền. Hiểu sâu xa hơn nó là địa chỉ
+một trang web hoạt động trên internet.
+URL là địa chỉ của một tài nguyên duy nhất trên Web
+Web Browser có nghĩa là trình duyệt web, đây là một ứng dụng phần mềm giúp người dùng truy cập các 
+thông tin có trên World Wide Web (WWW). Tại mỗi địa chỉ WWW sẽ là một trang web chứa đựng các hình 
+ảnh, video và văn bản được xác định bằng một URL riêng biệt, giúp cho các trình duyệt web truy xuất 
+và hiển thị chúng tới các thiết bị như điện thoại và máy tính của người sử dụng.
+Câu 1: Một ứng dụng web gồm những thành phần nảo?
+-> Front-end(Giao diện người dùng)
+-> Back-end(Phần xử lý dữ liệu)
+Câu 2:Tại sao lại chia ra ứng dụng web thành Back-end và Front-end?
+việc phân chia thành back-end và front-end trong ứng dụng web giúp tăng tính tổ chức, 
+quản lý, bảo mật, hiệu suất và khả năng mở rộng của ứng dụng.
+Câu 3:Để phát triển ứng dụng web thì bạn/team của bạn cần kiến thức/kỹ 
+năng về các công nghệ gì?
++, Hiểu biết về công nghệ cần sử dụng. Đảm bảo biết ít nhất một ngôn ngữ có thể làm backend.
++, Hiểu biết về HTML, CSS, JS...
++, Hiểu biết về CSDL.
+------------------------------------Chương II: HTML CSS---------------------------------------------
+Input có rất nhiều type hỗ trợ nhiều thứ khác nhau, trong đó có reset, hoặc submid, color...
+<fieldset> dùng để nhóm các dữ liệu liên quan trong một form
+<legend> dùng để tạo tiêu đề cho nhóm dữ liệu

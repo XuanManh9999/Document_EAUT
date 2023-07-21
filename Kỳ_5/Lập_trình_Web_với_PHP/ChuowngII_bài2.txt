@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            overflow: hidden;
+            padding: 10px;
+            width: 500px;
+            height: 550px;
+            border: 1px solid #ccc;
+        }
+        .input_form_user >input {
+            margin-top: 20px;
+            display: block;
+            width: 100%;
+            box-sizing: border-box;
+
+        }
+        .input_form_user .input_form_user_name {
+            display: flex;
+            justify-content: space-between;
+            gap: 15px;
+        }
+        .input_form_user .input_form_user_name input{
+            flex-basis: calc(50% - 30px);
+        }
+        .user_date {
+            display: flex;
+            justify-content: space-between;
+        }
+        .user_date from select{
+            min-width: 120px !important;
+        }
+        .user_sex {
+            display: flex;
+            justify-content: space-between;
+        }
+        .submid {
+            text-align: center;
+        }
+        .submid button {
+            min-width: 200px;
+
+        }
+    </style>
+</head>
+<body>
+    <form action="" class="container">
+        <h1>Đăng ký</h1>
+        <p>Nhanh chóng và dễ dàng</p>
+        <div class="input_form_user">
+            <div class="input_form_user_name">
+                <input type="text" placeholder="Họ">
+                <input type="text" placeholder="Tên">
+            </div>
+            <input type="text" name="" id="" placeholder="Số điện thoại di động">
+            <input type="text" placeholder="Mật khẩu mới">
+        </div>
+        <h1>Ngày sinh</h1>
+        <div class="user_date">
+            <from>
+                <select name="" id="">
+                    <option value="">14</option>
+                    <option value="">15</option>
+                    <option value="">14</option>
+                </select>
+            </from>
+            <from>
+                <select name="" id="">
+                    <option value="">Tháng 2</option>
+                    <option value="">Tháng 3</option>
+                    <option value="">Tháng 4</option>
+                </select>
+            </from>
+            <from>
+                <select name="" id="">
+                    <option value="">1970</option>
+                    <option value="">1971</option>
+                    <option value="">1972</option>
+                </select>
+            </from>
+        </div>
+        <h1>Giới tính</h1>
+        <div class="user_sex">
+            <div>
+                <input type="radio" name="sex" id="">Nam
+            </div>
+            <div>
+                <input type="radio" name="sex" id="">Nữ
+            </div>
+            <div>
+                <input type="radio" name="sex" id="">Tùy chỉnh
+            </div>
+        </div>
+        <p>Bằng cách nhập vào Đăng ký, bạn đồng ý với Điều khoản, chính sách dữ liệu
+            và chính sách cookie của chúng tôi. Bạn có thể nhận được thông báo của chúng 
+            tôi qua SMS và hủy nhận bất kỳ lúc nào.
+        </p>
+        <div class="submid">
+            <button>Đăng ký</button>
+        </div>
+    </form>
+</body>
+</html>
