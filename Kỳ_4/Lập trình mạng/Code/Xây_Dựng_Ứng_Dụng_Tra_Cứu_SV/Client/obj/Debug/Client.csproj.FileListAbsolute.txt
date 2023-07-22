@@ -1,8 +1,0 @@
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\bin\Debug\Client.exe.config
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\bin\Debug\Client.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\bin\Debug\Client.pdb
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\obj\Debug\Client.csproj.AssemblyReference.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\obj\Debug\Client.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Xây_Dựng_Ứng_Dụng_Tra_Cứu_SV\Client\obj\Debug\Client.pdb

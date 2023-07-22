@@ -1,8 +1,0 @@
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\bin\Debug\Binary_Write_Reader.exe.config
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\bin\Debug\Binary_Write_Reader.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\bin\Debug\Binary_Write_Reader.pdb
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\obj\Debug\Binary_Write_Reader.csproj.AssemblyReference.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\obj\Debug\Binary_Write_Reader.csproj.SuggestedBindingRedirects.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\obj\Debug\Binary_Write_Reader.csproj.CoreCompileInputs.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\obj\Debug\Binary_Write_Reader.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\Binary_Write_Reader\Binary_Write_Reader\obj\Debug\Binary_Write_Reader.pdb

@@ -1,8 +1,0 @@
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\bin\Debug\Code.exe.config
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\bin\Debug\Code.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\bin\Debug\Code.pdb
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\obj\Debug\Code.csproj.AssemblyReference.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\obj\Debug\Code.csproj.SuggestedBindingRedirects.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\obj\Debug\Code.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\obj\Debug\Code.pdb

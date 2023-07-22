@@ -1,8 +1,0 @@
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\bin\Debug\25_04_2023.exe.config
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\bin\Debug\25_04_2023.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\bin\Debug\25_04_2023.pdb
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\obj\Debug\25_04_2023.csproj.AssemblyReference.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\obj\Debug\25_04_2023.csproj.SuggestedBindingRedirects.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\obj\Debug\25_04_2023.csproj.CoreCompileInputs.cache
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\obj\Debug\25_04_2023.exe
-D:\DCCNTT12.10.3_EAUT\Kỳ_4\Lập trình mạng\Code\25_04_2023\25_04_2023\obj\Debug\25_04_2023.pdb

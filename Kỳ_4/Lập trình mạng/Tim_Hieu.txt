@@ -1,3 +1,0 @@
-Một số lớp hỗ trợ:TcpLitener, tcpClient, UdpClient
-+, Tìm hiểu về luồng, và đa luồng trong c#
-+, call_back(), Delegate
