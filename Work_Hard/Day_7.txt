@@ -1,0 +1,5 @@
+Sáng:
++, Học Java, Bootstrap, mysql.
+Chiều: 
++, Học SXTK.
++, Tìm hiểu học NodeJS.

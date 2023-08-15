@@ -1,0 +1,6 @@
++, Sáng Học các môn trên trường
+- SXTK, CSDL, WEBPHP, Java
++, Chiều Học môn phát triển
+- Nodejs, html_csspro, đọc tài liệu nodejs, tiếng anh
++, Tối Tiếng anh Doulingo - Ôn tập, lên kế hoạch hôm sau
+Phần thưởng 1 tập tam quốc diễn nghĩa

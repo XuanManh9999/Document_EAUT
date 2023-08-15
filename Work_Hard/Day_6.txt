@@ -1,0 +1,3 @@
++, 9h -> Java, Bootstrap, MySQL. -> OK
++, 13h -> SXTK, NodeJS
++, 19h -> 22h, HTML PRO, English 

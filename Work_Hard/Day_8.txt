@@ -1,0 +1,3 @@
+Sáng: Java (OK), mysql, bootstrap 5, PHP. -> 10h, cày nodejs.
+Chiều: Cày SXTK.
+Tối cày: Nodejs
